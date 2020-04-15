@@ -9,7 +9,7 @@
 
 ### :computer: Projeto 
 
-- Aplicação para <b>aprender conceitos simples</b> de React Native e também de Hooks, introduzida em uma aula na da <b>faculdade</b>.
+- Aplicação para <b>aprender conceitos simples</b> de React Native e também de Hooks, introduzida em uma aula de desenvolvimento mobile da <b>faculdade</b>.
 
 ### :page_facing_up: Como usar
 
